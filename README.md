@@ -1,30 +1,30 @@
-# Dynamic Profile Header Banner
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Hi%20there,%20I'm%20Sakib%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Apps%20%26%20Developer%20Tools%20🚀&descAlignY=58&descAlign=50&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=220&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Sakib%20%F0%9F%91%8B&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Apps%20%26%20Developer%20Tools%20%F0%9F%9A%80&amp;descAlignY=58&amp;descAlign=50&amp;descSize=20&amp;animation=fadeIn" width="100%" />
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
   <a href="https://github.com/sakibmursal07">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;React+%26+TypeScript+Builder;AI+%26+Modern+Web+Applications;Passionate+about+Clean+Architecture;Always+Building+%26+Exploring+New+Ideas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=520&amp;lines=Full-Stack+Developer;React+%26+TypeScript+Builder;AI+%26+Modern+Web+Apps;Passionate+about+Clean+Architecture;Always+Building+%26+Exploring+New+Ideas" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-<!-- Social Badges -->
 <div align="center">
   <a href="mailto:sakibmursal007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sakibmursal007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-sakibmursal007%40gmail.com-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/sakibmursal07">
-    <img src="https://img.shields.io/badge/GitHub-sakibmursal07-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-sakibmursal07-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="https://github.com/sakibmursal07?tab=repositories">
-    <img src="https://img.shields.io/badge/All_Repositories-View_Projects-6366F1?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/All_Repos-View_Projects-6366F1?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="All Repositories" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -36,35 +36,35 @@
 
 ```javascript
 const sakib = {
-  pronouns: "he/him",
-  role: "Full-Stack Software Engineer & Builder",
-  languages: ["TypeScript", "JavaScript", "Python", "HTML5", "CSS3"],
+  pronouns    : "he/him",
+  role        : "Full-Stack Software Engineer and Builder",
+  languages   : ["TypeScript", "JavaScript", "Python", "HTML5", "CSS3"],
   technologies: {
-    frontend: ["React", "Tailwind CSS", "Vite", "Next.js"],
-    backend: ["Node.js", "Express", "REST APIs"],
+    frontend    : ["React", "Tailwind CSS", "Vite", "Next.js"],
+    backend     : ["Node.js", "Express", "REST APIs"],
     ai_and_tools: ["Gemini AI SDK", "Git", "GitHub", "VS Code", "Postman"]
   },
   currentFocus: [
-    "Interactive Developer Tooling & AI Platforms",
-    "Scalable Web Marketplaces & Modern Web Apps",
+    "Interactive Developer Tooling and AI Platforms",
+    "Scalable Web Marketplaces and Modern Web Apps",
     "Writing Clean, Accessible, High-Performance Code"
   ],
-  philosophy: "Building software that is reliable, intuitive, and enjoyable to use"
+  philosophy  : "Building software that is reliable, intuitive, and enjoyable to use"
 };
 ```
 
-- 🚀 **What I do**: I design and build end-to-end web applications, interactive developer tools, and intuitive digital platforms with a strong focus on clean architecture and smooth UX.
-- 🛠️ **My Core Arsenal**: Modern **React, TypeScript, Tailwind CSS, Vite**, REST APIs, and modern AI SDKs.
-- 💡 **Open Source & Exploration**: Constantly experimenting with new frameworks, performance patterns, and developer experiences.
-- 💬 **Ask me about**: Frontend engineering, state management, full-stack workflows, API integration, and project architecture.
+- 🚀 **What I do**: Design and build end-to-end web applications, interactive developer tools, and intuitive digital platforms.
+- 🛠️ **Core Arsenal**: **React, TypeScript, Tailwind CSS, Vite**, REST APIs, and modern AI SDKs.
+- 💡 **Always Exploring**: New frameworks, performance patterns, and developer experiences.
+- 💬 **Ask me about**: Frontend engineering, state management, full-stack workflows, API integration.
 - 📫 **Reach out**: [sakibmursal007@gmail.com](mailto:sakibmursal007@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,python,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,python,git,github,vscode,postman" alt="Tech Stack" />
 </div>
 
 <br />
@@ -78,19 +78,19 @@ const sakib = {
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/sakibmursal07/bug2brain">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibmursal07&repo=bug2brain&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibmursal07&amp;repo=bug2brain&amp;theme=radical&amp;hide_border=true" alt="Bug2Brain" />
         </a>
         <br />
         <b>🧠 <a href="https://github.com/sakibmursal07/bug2brain">Bug2Brain</a></b>
-        <p align="center">Interactive AI-powered programming error tutor with intuitive physical mental models, Gemini AI, and habit tracking.</p>
+        <p>AI-powered programming error tutor with mental-model analogies, Gemini AI, and habit tracking.</p>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/sakibmursal07/harvest-hub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibmursal07&repo=harvest-hub&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sakibmursal07&amp;repo=harvest-hub&amp;theme=radical&amp;hide_border=true" alt="Harvest Hub" />
         </a>
         <br />
         <b>🌱 <a href="https://github.com/sakibmursal07/harvest-hub">Harvest Hub</a></b>
-        <p align="center">Farmer-to-consumer digital marketplace connecting farmers directly with local buyers, orders, and admin dashboard.</p>
+        <p>Farmer-to-consumer marketplace with real auth, transparent orders, and an admin dashboard.</p>
       </td>
     </tr>
   </table>
@@ -98,26 +98,27 @@ const sakib = {
 
 <div align="center">
   <a href="https://github.com/sakibmursal07?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories_&_Experiments_→-238636?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_All_Repos_%E2%86%92-238636?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore All Repositories" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
-<sub>Live analytics automatically aggregated across all current and future repositories:</sub>
+### 📊 GitHub Activity and Analytics
+
+> Live analytics automatically aggregated across all current and future repositories.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakibmursal07&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Sakib's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmursal07&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakibmursal07&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibmursal07&amp;layout=compact&amp;theme=radical&amp;hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sakibmursal07&theme=radical&hide_border=true" alt="Sakib's Streak" />
+  <img src="https://streak-stats.demolab.com?user=sakibmursal07&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=100&amp;section=footer" width="100%" />
 </div>
