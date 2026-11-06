@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=220&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Sakib%20%F0%9F%91%8B&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20Building%20Modern%20Web%20Apps%20%26%20Developer%20Tools%20%F0%9F%9A%80&amp;descAlignY=58&amp;descAlign=50&amp;descSize=20&amp;animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=220&amp;section=header&amp;text=Hi+there%2C+I%27m+Sakib&amp;fontSize=48&amp;fontAlignY=38&amp;fontColor=fff&amp;desc=Full-Stack+Developer+%7C+Modern+Web+Apps+%26+Developer+Tools&amp;descAlignY=58&amp;descAlign=50&amp;descSize=18&amp;descColor=fff&amp;animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
@@ -120,5 +120,5 @@ const sakib = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=100&amp;section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21&amp;height=100&amp;section=footer&amp;fontColor=fff" width="100%" />
 </div>
